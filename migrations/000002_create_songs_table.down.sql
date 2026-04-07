@@ -1,0 +1,1 @@
+Drop Table IF EXISTS songs;

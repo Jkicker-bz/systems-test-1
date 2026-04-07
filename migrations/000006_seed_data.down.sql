@@ -1,0 +1,2 @@
+DELETE FROM songs;
+DELETE FROM leads;

@@ -1,0 +1,1 @@
+DROP TABLE IF EXIST set_list_songs;
